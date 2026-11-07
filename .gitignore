@@ -1,0 +1,22 @@
+# Proteus generated backups and outputs
+*.pdsbak
+*.bak
+*.tmp
+*.log
+*.hex
+*.elf
+*.cof
+*.lst
+*.obj
+*.o
+*.map
+*.mcp
+*.workspace
+*.workspace.*
+*.lock
+*.DSN.backup
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
